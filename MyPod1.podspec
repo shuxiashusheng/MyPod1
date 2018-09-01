@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "MyPod1"
-  s.version      = "0.0.1"
-  s.summary      = "hello , test test test .A short description of MyPod1."
+  s.version      = "0.0.2"
+  s.summary      = "hello ,This MyPod1 for test."
   s.description  = <<-DESC
     sb,hello , test test test .A short description of MyPod1.
                    DESC
